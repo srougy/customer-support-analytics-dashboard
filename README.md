@@ -79,14 +79,6 @@ The dashboard includes critical call center metrics such as:
 
 ---
 
-## 📸 Dashboard Preview
-
-> ⚠️ Note: Replace the image below with your actual dashboard screenshot
-
-![Dashboard Preview](https://via.placeholder.com/1000x500?text=Call+Center+Dashboard)
-
----
-
 ## 🚀 How to Use
 
 1. Download the `.pbix` file from this repository
